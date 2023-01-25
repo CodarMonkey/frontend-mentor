@@ -90,7 +90,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Wallace SF da Silva](https://codarmonkey.github.io/frontend-mentor/qr-code-component-main/design/))
+- Website - [Wallace SF da Silva - Qr-Code](https://codarmonkey.github.io/frontend-mentor/qr-code-component-main/design/)
 - Frontend Mentor - [@CodarMonkey](https://www.frontendmentor.io/profile/CodarMonkey)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
